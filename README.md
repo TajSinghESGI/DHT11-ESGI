@@ -7,4 +7,5 @@ Projet de Vithursan SIVAKUMARAN, Dian Li et Taj Singh.
 2. Calculer la tendance pour la température et l'humidité et faire varier différentes LED pour visualiser un changement.<br/>
 3. Représenter les branchements par un schéma.<br/>
 
-<h2>Schéma électronique</h2>
+# Schéma électronique
+![Schema](https://github.com/TajSinghESGI/DHT11-ESGI/blob/master/circuit.png)
